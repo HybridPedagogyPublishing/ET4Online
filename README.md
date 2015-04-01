@@ -1,6 +1,7 @@
-The Public Intellectual: Maintaining an Online Scholarly Presence
-Kris Shaffer, Ph.D.
-March 2, 2015
-CU–Boulder College of Music
+THE BOOK AS INTERFACE
+CRITICAL TEXTBOOKS, OPEN PUBLISHING, AND HYBRID PEDAGOGY
+KRIS SHAFFER, PH.D. — CU–BOULDER
+ROBIN WHARTON, PH.D. — GEORGIA STATE UNIV.
+www.hybrid.pub / @HybridPub
 
 Built with reveal.js
